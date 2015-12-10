@@ -1,0 +1,23 @@
+{
+  "name": "something",
+  "homepage": "https://github.com/cejixo3/somethng",
+  "authors": [
+    "Popov Nikolay <cejixo3dr@gmail.com>"
+  ],
+  "description": "something",
+  "main": "f",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor/bower",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-datepicker": "~1.5.0",
+    "fancybox": "~2.1.5"
+  }
+}
